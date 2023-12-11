@@ -5,4 +5,5 @@ var c = a + b;
 document.write(c);
 document.write(a);
 document.write(b);
+document.write(b);
 
