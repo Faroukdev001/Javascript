@@ -11,3 +11,4 @@ for(var a = 1; a <= 10; a+=2){
     document.write("<h1>" + a + "</h1>");
 
 }
+
